@@ -1,0 +1,13 @@
+
+
+label{
+    font-size:16px;
+    line-height: 18px;
+    width : 170px;
+}
+input{
+    border-radius: 10px;
+    padding: 8px;
+    margin-top: 10px;
+    
+}
